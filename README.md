@@ -19,4 +19,6 @@ En esta librería encontrarán los cursores de mouse de goku
 
 8.- ir a la opción de Punteros.
 
-9.- Clic en 
+9.- Clic en la opción examinar.
+
+10.- Ir a la ruta C:\Windows\Cursors\goku\ y seleccionar el cursor
